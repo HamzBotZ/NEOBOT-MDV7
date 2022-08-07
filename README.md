@@ -40,6 +40,8 @@ WhatsApp Bot Multi Device
 ----|----
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
  Author | Creator
+[Ilman](https://github.com/HamzBotzzzzz) | [Hyzer](https://github.com/Hyzerr)
+ - | -
 
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
