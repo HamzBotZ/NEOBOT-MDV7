@@ -1,19 +1,19 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "NEOBOT-STORE",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6288214989352@s.whatsapp.net", 
+    "ownerName": "HamzGanz", 
+    "botName": "Zxynn-STORE",
+    "footer": "© ZxynnBotzXHamzGanz", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "group": "https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx",
+    "yootube": "https://youtube.com/c/Hamz9999+",
      
     "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
+    "textBarisDonate1": "Dana : 0882-1498-9352",
+    "textBarisDonate2": "Ovo : -",
     "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "textBarisDonate4": "Pulsa : 0881-0233-63385",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Rest Api",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© Zxynn-STORE",
+        "author": "HamzGanz"
     }
 }
